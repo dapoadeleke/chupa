@@ -2,7 +2,7 @@
 Chupa is a command-line tool written in Golang which makes HTTP requests and prints the address of the request along with the MD5 hash of the response. The tool is capable of performing requests in parallel to complete the task sooner. The order in which addresses are printed is not important. The tool is also able to limit the number of parallel requests to prevent exhausting local resources.
 
 ## Installation
-1. Clone the Golang source code using the terminal: `git clone https://github.com/<username>/myhttp.git`
+1. Clone the Golang source code using the terminal: `git clonehttps://github.com/dapoadeleke/chupa.git`
 2. Navigate to the root directory using command `cd chupa`
 3. Build the project with command `go build cmd/chupa.go`
 

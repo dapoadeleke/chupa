@@ -7,9 +7,9 @@ Chupa is a command-line tool written in Golang which makes HTTP requests and pri
 3. Build the project with command `go build cmd/chupa.go`
 
 ## Usage
-The basic syntax for running MyHTTP is as follows:
-`./chupa [flags] url1 url2 url3 ...`
-The flags are as follows:
+The basic syntax for running MyHTTP is as follows: <br/>
+`./chupa [flags] url1 url2 url3 ...` <br/>
+The flags are as follows: <br/>
 `-parallel`: The maximum number of parallel requests to make. Default value is 10.
 
 ## Sample Request
